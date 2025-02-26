@@ -58,4 +58,4 @@ Visualizations:
 Line graph comparing current year and previous year sales.
 Key metrics such as total sales, year-on-year growth, month-on-month growth, week-on-week growth, return rate, and average order value.
 Filters for date range, region, and category.
-Feel free to customize the descriptions further to better fit the specifics of your project. This structure should provide a solid foundation for your GitHub repository and help you effectively communicate the value of your Power BI project.
+
